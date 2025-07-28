@@ -17,4 +17,8 @@ These projects helped me practice HTML, CSS, and JavaScript fundamentals as well
 - **PriceTable**  
   A pricing table component created with CSS to display different plans pricing options clearly.
 
+- **Pokémon Images Demo**  
+  A small JavaScript demo that dynamically loads and displays images of the first 151 Pokémon with their corresponding numbers.  
+  Demonstrates DOM element creation and appending images and labels inside a container dynamically.
+
 
