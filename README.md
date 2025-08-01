@@ -21,5 +21,4 @@ These projects helped me practice HTML, CSS, and JavaScript fundamentals as well
   A small JavaScript demo that dynamically loads and displays images of the first 151 Pokémon with their corresponding numbers. Demonstrates DOM element creation and appending images and labels inside a container dynamically.
 
 - **Ping Pong Score Keeper**
- 
   A simple interactive score keeper built with HTML, JavaScript, and Bulma CSS. It allows two players to track scores, set a winning score, and reset the game. Built to practice DOM manipulation and event handling.
